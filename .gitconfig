@@ -4,3 +4,4 @@
 name = Julius Alexander IV
 [alias]
 branchv = branch -vv
+cob = checkout -b
