@@ -3,4 +3,4 @@
 # Please adapt and uncomment the following lines:
 name = Julius Alexander IV
 [alias]
-branch -vv = branch
+branchv = branch -vv
